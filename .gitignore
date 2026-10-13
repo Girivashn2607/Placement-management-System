@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+target/
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+logs/
+*.log
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+
+# Environment variables & local storage
+.env
+.env.local
+uploads/
+resume_uploads/
